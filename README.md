@@ -8,6 +8,6 @@ usage
 
 flag | use
 ----|----
--i | interface
+ -i | interface
 -m | new mac
 -h /--help |help
